@@ -1,0 +1,27 @@
+{
+  "name": "social-networkapi",
+  "version": "1.0.0",
+  "description": "social network application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angiecruz02/social-NetworkAPI.git"
+  },
+  "keywords": [
+    "express",
+    "noSQL"
+  ],
+  "author": "Angelica Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angiecruz02/social-NetworkAPI/issues"
+  },
+  "homepage": "https://github.com/angiecruz02/social-NetworkAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1"
+  }
+}
