@@ -8,7 +8,6 @@
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Demostration](#demostration)
 - [Questions](#questions)
 
 ## Description
@@ -36,8 +35,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contributing
 
 This project is not open to contributions at this time. 
-
- ## Demostration
 
 
 ## Questions
